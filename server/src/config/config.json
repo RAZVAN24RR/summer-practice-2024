@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "razvan",
+    "password": "razvan",
+    "database": "seriesSpot",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
